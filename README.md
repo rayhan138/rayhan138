@@ -16,6 +16,8 @@ Right now, my main project is **Watchman**, a lightweight Windows network monito
 
 ### Watchman
 
+<img src="https://raw.githubusercontent.com/rayhan138/Watchman/main/src-tauri/icons/Square150x150Logo.png" width="90" alt="Watchman logo" />
+
 Watchman is a local-first Windows network monitor that shows:
 
 - Live download and upload speed
@@ -58,18 +60,3 @@ My goal is to make tools that help people understand what is happening on their 
 
 Website: [watchman.blinkeye.app](https://watchman.blinkeye.app/)  
 GitHub: [@rayhan138](https://github.com/rayhan138)
-
-<!--
-**rayhan138/rayhan138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
